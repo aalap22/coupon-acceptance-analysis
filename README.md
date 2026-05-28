@@ -35,8 +35,9 @@ The dataset contains 12,684 survey responses describing driving scenarios (desti
 
 ## Files
 
-- `prompt.ipynb` — Complete Jupyter notebook with analysis and visualizations
+- `coupon_analysis.ipynb' - Jupyter notebook with analysis and visualizations
 - `data/coupons.csv` — Source dataset from UCI ML Repository
+- 'images' - all the charts
 
 ## Tools Used
 
