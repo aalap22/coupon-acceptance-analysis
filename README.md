@@ -11,7 +11,7 @@ The dataset contains 12,684 survey responses describing driving scenarios (desti
 ## Key Findings
 
 ### Overall
-- **56.93%** of all coupons were accepted
+- 56.93% of all coupons were accepted
 - Coffee House has most number of coupon distribution
 
 ### Bar Coupons (41% acceptance rate)
